@@ -28,11 +28,15 @@ None except Minecraft for the time being.
 KMSCon interests me as an alternative to the built-in Linux virtual terminal.
 
 The Gemini protocol itself goes along with my visions for the web.
-For a browser I like Castor though I would appreciate a UI for settings.
-For a server I think that Agate is very nice, especially considering how fast (efficient, simple, small) it is.
+For a browser, I like Castor though I would appreciate a UI for settings.
+Amfora is also nice as a terminal viewer though I can't figure out how to put it into TUI mode.
+For a server, I think that Molly Brown is really nice all around.
+For a web proxy, Kineto looks nice by default.
 
 => https://git.sr.ht/~julienxx/castor Castor
-=> https://github.com/mbrubeck/agate Agate
+=> https://github.com/makeworld-the-better-one/amfora Amfora
+=> https://tildegit.org/solderpunk/molly-brown Molly Brown
+=> https://sr.ht/~sircmpwn/kineto/ Kineto
 
 ## Food
 
