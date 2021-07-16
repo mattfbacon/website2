@@ -1,0 +1,43 @@
+# Recently...
+
+## Programming Languages
+
+I enjoy programming in C and C++ and I have done a lot with them recently.
+
+=> https://www.qt.io/ Qt GUI Framework
+
+JavaScript, while not necessarily something I enjoy, is a language I use often. When possible, though, I use TypeScript and/or Elm.
+
+=> https://www.typescriptlang.org/ TypeScript
+=> https://elm-lang.org/ Elm
+
+## Languages
+
+I'm still learning Japanese, Spanish, and German. You can see my statistics at the following links:
+
+=> https://duome.eu/tonkotsuLover Duolingo (via Duome.eu)
+
+(I also use Wanikani and Bunpro but have not found sufficients stats pages for either.)
+
+## Games
+
+None except Minecraft for the time being.
+
+## Software
+
+KMSCon interests me as an alternative to the built-in Linux virtual terminal.
+
+The Gemini protocol itself goes along with my visions for the web.
+For a browser I like Castor though I would appreciate a UI for settings.
+For a server I think that Agate is very nice, especially considering how fast (efficient, simple, small) it is.
+
+=> https://git.sr.ht/~julienxx/castor Castor
+=> https://github.com/mbrubeck/agate Agate
+
+## Food
+
+I finally tracked down a mangosteen! They're often called the "queen of fruit" so I'm excited to try one. Unfortunately I mixed up the way to figure out if it's ripe or not, so the one I got was hard rather than soft. A few days on the counter should fix that, though.
+
+## Places
+
+Land of the Medicine Buddha has some nice hikes, and the forest is incredibly quiet.

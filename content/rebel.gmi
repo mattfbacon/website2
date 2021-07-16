@@ -1,0 +1,28 @@
+# Rebel!
+
+## HDCP Master Key
+
+Using this file you can bypass the HDCP scrambling that content providers use to prevent you from watching their content on your chosen hardware. Since there are attempts to supress it I'm making it publicly available on my website.
+
+=> /res/misc/hdcp.txt
+
+## DeCSS
+
+Using this program you can bypass DVD encryption. You will have to compile the C source code.
+
+=> /res/misc/decss.tar.gz
+
+## HD-DVD Decryption Key
+
+```
+09 F9 11 02 9D 74 E3 5B D8 41 56 C5 63 56 88 C0
+```
+
+This is the key that can be used to decrypt most HD DVDs.
+
+## PGP Key
+
+Please use this key for any important communication with me.
+
+=> /res/misc/mattfellenz.asc
+=> https://www.bitcoinnotbombs.com/beginners-guide-to-pgp/ How to Use

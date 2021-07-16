@@ -1,0 +1,16 @@
+# Projects
+
+## In Progress
+
+=> https://github.com/mattfbacon/os Multiboot OS in C
+=> https://github.com/mattfbacon/discord-botlib Discord Bot Framework
+=> https://tagviewer.github.io/ TagViewer 3 (link goes to TagViewer 1 site for now)
+
+## Planned
+
+* Something similar to Elm, but in regular JS. The upshot would be that all the code would be evaluated before execution occurred, because all actual "execution" is tied to events such as input, mouse clicks, etc.
+
+## Completed
+
+=> https://github.com/mattfbacon/qake Qake, a project generator and high-level interface to GNU Make
+=> https://github.com/mattfbacon/elm-tetris Tetris in Elm
